@@ -6,8 +6,13 @@ void main()
   
 }
 
-int sum(int a, int b){
+void sum(int a, int b){
   int c;
   c=a+b;
-  return c;
+  printf("%d",c);
+}
+void sub(int a. int b)
+{
+  int c=a+b;
+  printf("%d",c);
 }
