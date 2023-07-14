@@ -37,3 +37,4 @@ while not exit:
         print(l3[i])
     if input('type "exit" to leave matrix mul\nelse type any button to proceed further')=='exit':
         exit=True
+# last line added
